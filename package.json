@@ -23,9 +23,11 @@
   },
   "homepage": "https://github.com/RangerMauve/intercept-hypercore-storage#readme",
   "devDependencies": {
-    "hypercore": "^8.7.0",
-    "random-access-memory": "^3.1.1",
     "tape": "^4.13.0",
     "tmp": "^0.1.0"
+  },
+  "dependencies": {
+    "hypercore": "^9.12.0",
+    "random-access-memory": "^3.1.2"
   }
 }
